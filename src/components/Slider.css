@@ -1,0 +1,12 @@
+.carousel-indicators{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+    color: black;
+}
+.carousel-caption {
+    right: 14%;
+    top: 19rem;
+    left: 14%;
+    font :bold
+}
